@@ -25,9 +25,4 @@ void show9();
 void showNumber(uint8_t number);
 
 
-void test(); // TODO: remove again
-
-void cascadeLeds(int delay); // TODO: remove again
-
-
 #endif //HEIMPROJEKT02_7SEGMENTCONTROL_H

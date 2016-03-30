@@ -22,10 +22,6 @@ void doSetup() {
 }
 
 void doLoop() {
-    //cascadeLeds(100);
-
-    //test();
-
     uint8_t gear = getGearFromSwitchPositions();
     showNumber(gear);
 }
